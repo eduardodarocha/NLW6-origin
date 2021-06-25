@@ -183,5 +183,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 <p align="center">
 
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="https://img.shields.io/static/v1?style=plastic&label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img src="https://img.shields.io/static/v1?label=%3Cnlw/%3Etogether&message=origin&labelColor=8257e5&color=000000&style=plastic">
 </p>
