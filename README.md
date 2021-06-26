@@ -57,25 +57,23 @@ Material para o projeto e configuração do ambiente no [Notion](https://www.not
 - Programação WEB
   - O que é programação?
     - Ensinar computador
-      - [ ] Algoritmos
+      - Algoritmos
         - [x]  Passo a passo
         - [x]  Conjunto de Regras
-      - [ ] Lógica de Programação
+      -Lógica de Programação
         - [x]  Maneira de Pensar
-      - [ ] Sintaxe
+      -Sintaxe
         - [x]  Maneira correta de escrever
     - Linguagem de programação
-      - [ ]  Javascript
+      - Javascript
   
 - Front-end e Back-end
   - Comunicação
     - Cliente chama
     - Servidor escuta e responde
   - Como é feita essa comunicação?
-    - HTTP 
-        ( HyperText Transfer Protocol )
-    - URL 
-        ( Universal Resource Location )
+    - HTTP (HyperText Transfer Protocol)
+    - URL (Universal Resource Location)
     - Troca de dados
   - Tecnologias do Front-end
     - HTML
@@ -92,7 +90,7 @@ Material para o projeto e configuração do ambiente no [Notion](https://www.not
 
 - CSS
   - O que é?
-    -  Cascading Style Sheets
+    - Cascading Style Sheets
     - Apresentação visual para o cliente
     - Estilo para o HTML
   - Seletores e anatomia
@@ -167,6 +165,22 @@ Material para o projeto e configuração do ambiente no [Notion](https://www.not
   - Criar lógica
 - Intro Media Queries
   - Responsivo
+
+### 🔚 Aula 05: Finalizando o projeto
+
+- Media Queries
+  - Responsivo
+  - Menu
+  - Home
+  - About
+  - Services
+  - Testimonials
+    - Ajustes JS
+  - Contact
+  - Footer
+    - social com grid
+  - bugfix
+  - Link ativo
   
 ## 🗂️ Guia de estudos e organização
 
